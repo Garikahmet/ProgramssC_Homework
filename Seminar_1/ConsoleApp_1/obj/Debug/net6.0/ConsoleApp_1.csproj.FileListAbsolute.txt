@@ -1,0 +1,15 @@
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.exe
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.deps.json
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.runtimeconfig.json
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.pdb
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.AssemblyReference.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfoInputs.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfo.cs
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.CoreCompileInputs.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\refint\ConsoleApp_1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.pdb
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.genruntimeconfig.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ref\ConsoleApp_1.dll
