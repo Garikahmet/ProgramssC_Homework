@@ -1,0 +1,15 @@
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\bin\Debug\net6.0\exercise1.exe
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\bin\Debug\net6.0\exercise1.deps.json
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\bin\Debug\net6.0\exercise1.runtimeconfig.json
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\bin\Debug\net6.0\exercise1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\bin\Debug\net6.0\exercise1.pdb
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.csproj.AssemblyReference.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfoInputs.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfo.cs
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.csproj.CoreCompileInputs.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\refint\exercise1.dll
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.pdb
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\exercise1.genruntimeconfig.cache
+D:\Program Files\ProgramSeminars\Seminars\Seminar_2\homework\exercise1\obj\Debug\net6.0\ref\exercise1.dll
