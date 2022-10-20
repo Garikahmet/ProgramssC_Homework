@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Y\\.nuget\\packages\\": {}
+    "C:\\Users\\Igor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\ProgramSeminars\\Seminars\\Seminar_1\\ConsoleApp_4\\ConsoleApp_4.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_1\\ConsoleApp_4\\ConsoleApp_4.csproj",
       "projectName": "ConsoleApp_4",
-      "projectPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\Seminar_1\\ConsoleApp_4\\ConsoleApp_4.csproj",
-      "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\Seminar_1\\ConsoleApp_4\\obj\\",
+      "projectPath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_1\\ConsoleApp_4\\ConsoleApp_4.csproj",
+      "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_1\\ConsoleApp_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Y\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

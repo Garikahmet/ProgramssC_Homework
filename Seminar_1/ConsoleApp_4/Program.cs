@@ -6,5 +6,5 @@
 Console.Write("Введите число N: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-for (int x = 1; x < N; x++)       
+for (int x = 1; x <= N; x++)       
 if (x%2==0) Console.WriteLine(x);
