@@ -1,0 +1,17 @@
+﻿/*Напишите программу, которая будет принимать на вход два числа и выводить, является ли второе число кратным первому. Если число 2 не кратно числу 1, то программа выводит остаток от деления.
+34, 5 -> не кратно, остаток 4 
+16, 4 -> кратно
+*/ 
+int numb1, numb2;
+string Out;
+Console.Write("Введите первое число: ");
+numb1 = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
+numb2 = int.Parse(Console.ReadLine()); 
+
+int result = numb1 % numb2;
+
+if (result != 0) Out = "Не кратно, остаток" + result;
+else Out = "кратно";
+
+Console.WriteLine(Out);
