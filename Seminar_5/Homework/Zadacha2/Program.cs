@@ -31,9 +31,15 @@ Console.WriteLine("Случайный массив: ");
 PrintArray(numbers);
 
 int sum = 0;
+<<<<<<< HEAD
 for (int i = 0; i < size; i++)
 {
     if (i % 2 != 0)
+=======
+for (int i = 0; i < 10; i++)
+{
+    if (numbers[i] % 2 != 0)
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
     {
         sum = sum + numbers[i];
     }

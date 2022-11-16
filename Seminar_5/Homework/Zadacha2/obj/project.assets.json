@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Igor\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Y\\.nuget\\packages\\": {}
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
       "projectName": "Zadacha2",
       "projectPath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
+      "projectName": "Zadacha2",
+      "projectPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
+      "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
+      "outputPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Y\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +74,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
       }
     }
   }

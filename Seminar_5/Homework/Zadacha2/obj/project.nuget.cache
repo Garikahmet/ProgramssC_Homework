@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xDiZQ2ZJzWpk2bvGU5eE78M+maWSyLlIonxgaj/cAeDgc1TcCs6ExyakPv5aYJg82OIAI8py1Ya56j/40f2OcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
+=======
+  "dgSpecHash": "yFy+1lI184ZeNIpBP6W8hJ830zROpDflE3qJ7t+3YBfMU7KV2MEfWzng++mjy7++DmA575vsfK83y6HGZnwThQ==",
+  "success": true,
+  "projectFilePath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Homework\\Zadacha2\\Zadacha2.csproj",
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
   "expectedPackageFiles": [],
   "logs": []
 }

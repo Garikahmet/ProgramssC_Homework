@@ -13,6 +13,7 @@ D:\Program Files\ProgramSeminars\Seminars\ProgramssC_Homework\Seminar_5\Homework
 D:\Program Files\ProgramSeminars\Seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\Zadacha2.pdb
 D:\Program Files\ProgramSeminars\Seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\Zadacha2.genruntimeconfig.cache
 D:\Program Files\ProgramSeminars\Seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\ref\Zadacha2.dll
+<<<<<<< HEAD
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\bin\Debug\net6.0\Zadacha2.exe
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\bin\Debug\net6.0\Zadacha2.deps.json
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\bin\Debug\net6.0\Zadacha2.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Hom
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\Zadacha2.pdb
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\Zadacha2.genruntimeconfig.cache
 C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Homework\Zadacha2\obj\Debug\net6.0\ref\Zadacha2.dll
+=======
+>>>>>>> b5dde58bb07da5aac8d06972f3d0591127ab4455
