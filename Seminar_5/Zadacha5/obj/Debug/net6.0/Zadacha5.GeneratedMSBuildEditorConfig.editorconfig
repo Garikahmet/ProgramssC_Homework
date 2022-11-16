@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Zadacha5
-<<<<<<< HEAD
 build_property.ProjectDir = d:\Program Files\ProgramSeminars\Seminars\ProgramssC_Homework\Seminar_5\Zadacha5\
-=======
-build_property.ProjectDir = C:\Users\Igor\Documents\программирование\seminars\ProgramssC_Homework\Seminar_5\Zadacha5\
->>>>>>> 5c60e05c288dc3e9ebb1fbc7a1ddf91ab35961de

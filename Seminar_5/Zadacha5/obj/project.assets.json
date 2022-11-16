@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Igor\\.nuget\\packages\\": {}
+    "C:\\Users\\Y\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\Zadacha5.csproj",
+      "projectUniqueName": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\Zadacha5.csproj",
       "projectName": "Zadacha5",
-      "projectPath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\Zadacha5.csproj",
-      "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\Documents\\программирование\\seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\obj\\",
+      "projectPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\Zadacha5.csproj",
+      "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
+      "outputPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Seminar_5\\Zadacha5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Y\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
