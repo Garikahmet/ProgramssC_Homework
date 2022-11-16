@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha4\\Zadacha4.csproj": {}
+    "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha6\\Zadacha6.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha4\\Zadacha4.csproj": {
+    "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha6\\Zadacha6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha4\\Zadacha4.csproj",
-        "projectName": "Zadacha4",
-        "projectPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha4\\Zadacha4.csproj",
+        "projectUniqueName": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha6\\Zadacha6.csproj",
+        "projectName": "Zadacha6",
+        "projectPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha6\\Zadacha6.csproj",
         "packagesPath": "C:\\Users\\Y\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha4\\obj\\",
+        "outputPath": "D:\\Program Files\\ProgramSeminars\\Seminars\\ProgramssC_Homework\\Lesson4\\Zadacha6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Y\\AppData\\Roaming\\NuGet\\NuGet.Config"
