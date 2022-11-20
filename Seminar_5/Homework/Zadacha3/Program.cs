@@ -48,4 +48,4 @@ for (double i = 1; i < numbers.Length; i++)
 double result;
 result = maxNumber - minNumber;
 
-Console.WriteLine($"Разница между max и min элементов массива: {result}");
+Console.WriteLine($"Разница между max и min элементов массива: {Math.Round(result, 2)}");
