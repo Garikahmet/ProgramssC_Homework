@@ -51,10 +51,9 @@ Console.WriteLine("Введите координату a: ");
  {
     Console.WriteLine("такого числа нет");
  }
- 
+
  else
  {
  object c = array.GetValue(a, b);
  Console.WriteLine($"Значение элемента под данными координатами: {c}");
  }
-
